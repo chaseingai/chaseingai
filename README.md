@@ -15,11 +15,11 @@
 
 ## 🔥 Stats & Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chasestarnes&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chasestarnes&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaseingai&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaseingai&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chasestarnes&theme=radical&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chaseingai&theme=radical&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
 ---
@@ -29,14 +29,4 @@
   <a href="https://linkedin.com/in/chasestarnes"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/chasestarnes"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://app.theaicheatcode.com"><img src="https://img.shields.io/badge/-My Website-F788ED?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Random Joke" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
 </p>

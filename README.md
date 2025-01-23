@@ -15,9 +15,9 @@
 
 ## 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chasestarnes&show_icons=true&theme=graywhite&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px; margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chaseingai&show_icons=true&theme=graywhite&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px; margin-bottom: 10px;" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chasestarnes&theme=graywhite&hide_border=true" alt="GitHub Streak Stats" style="border-radius: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaseingai&theme=graywhite&hide_border=true" alt="GitHub Streak Stats" style="border-radius: 10px;" />
 </div>
 
 ---

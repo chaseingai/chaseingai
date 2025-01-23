@@ -1,27 +1,22 @@
-<h1 align="center">Im Chase (ing) AI</h1>
+<pre>
+_________ .__                         .__                    _____  .___ 
+\_   ___ \|  |__ _____    ______ ____ |__| ____    ____     /  _  \ |   |
+/    \  \/|  |  \\__  \  /  ___// __ \|  |/    \  / ___\   /  /_\  \|   |
+\     \___|   Y  \/ __ \_\___ \\  ___/|  |   |  \/ /_/  > /    |    \   |
+ \______  /___|  (____  /____  >\___  >__|___|  /\___  /  \____|__  /___|
+        \/     \/     \/     \/     \/        \//_____/           \/     
+
+               ♖ (Bishop Chess Piece) ♖
+</pre>
 
 <p align="center">
-  <em>Building smarter tools and automating the future</em>
+  <em>~ Automation Architect | AI Enthusiast | Cloud Magician ~</em>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-<div align="center" style="padding: 10px; background-color: #f8f9fa; border-radius: 10px; max-width: 800px; margin: auto;">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,nodejs,docker,postgres,redis,supabase,linux,figma" alt="Tech Stack Icons" />
-</div>
-
----
-
-## 📊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaseingai&show_icons=true&theme=graywhite&hide_title=true&hide_border=true&count_private=true" alt="GitHub Stats" style="border-radius: 10px; margin-bottom: 10px;" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaseingai&theme=graywhite&hide_border=true" alt="GitHub Streak Stats" style="border-radius: 10px;" />
-</div>
-
----
-
-<p align="center">
-  <small>chaseingai</small>
-</p>
+## 🖥️ Tech Stack
+```plaintext
+> Typescript       React           Next.js          Tailwind CSS
+> Node.js          Docker          Redis            PostgreSQL
+> Supabase         Linux           Figma            Cloudflare Workers
